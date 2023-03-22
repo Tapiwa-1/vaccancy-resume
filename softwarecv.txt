@@ -31,10 +31,15 @@ CodeIgniter
 Containers
 Docker
 
+Tools
+AdobeXD
+Adobe Photoshop
+Adobe Premier
+Microsoft Office Tools
 
 Introduction
 Hard-working listing software engineer with a flair for creating elegant solutions in the least amount of time.
-As a fullstack developer, created SAS datasets of clinical data and developed macro programs to improve efficiency and quality of data management for Ministry of Local Goverment. Looking to use my software engineering skills to help boost ..............’ data management efficiency.
+As a fullstack developer, created SAS datasets of clinical data and developed macro programs to improve efficiency and quality of data management for Ministry of Local Government. Looking to use my software engineering skills to help boost ..............’ data management efficiency.
 I have developed a strong understanding of software development principles and practices. I am passionate about creating user friendly and visually appealing interface that provide an exceptional user experience. I am also committed to staying up to date with the latest technology and trends in the industry to ensure that my skills remain Relevant and valuable.
 I am excited to bring my skills and experience to a new opportunity and contribute to the success of a dynamic team.
 
@@ -58,15 +63,26 @@ Key Responsibilities
     • Create technical documentation for reference and reporting
       
 Key Achievements
-    • Complited Traditional Leaders System. A web based application designed to capture information about chiefs, villageheads and headmans in order to minimuze data reduntancy, data incosistency.
+    • Completed Traditional Leaders System. A web based application designed to capture information about chiefs, villageheads and headmans in order to minimuze data reduntancy, data incosistency.
 
 Education
-Bachelor of Science Information Security and Assuarance 		August 2020 to August 2024
+Bachelor of Science Information Security and Assurance 		August 2020 to August 2024
 Harare Institute of Technology , Harare, Zimbabwe
 Information assurance is the practice of assuring information and managing risks related to the use, processing, storage, and transmission of information. Information assurance includes protection of the integrity, availability, authenticity, non-repudiation and confidentiality of user data
 
 Relevant Coursework: Computer Architecture and Organization, Principles of Programming, Secure Coding, System Administration and Security, Visual Programming Concepts, Web Technology, Database Design and Security, Operating Systems, Operating Systems
 
-Projects
+Top Projects
+
+1. Local Government Traditional Leaders Portal
+Project developed when still working at Ministry of Local government that allows capturing and monitoring of personal information of Chiefs, Headmans and villageheads in order to minimize data redundancy and data inconsistency.
+Aims: It allows me to test and participate my software engineering in a real world Project
+
+2. Vacancy Mail Recreation
+Personal Project l have build to replicate basic functionity of job seeking systems. It allowed employees to have employer account that will enable them to post the job ads whilst job seekers would create accounts upload their personal details and their skills. The systems allowed employees to query all job application, accepting whether the job seeker have the right skills that suits the job.
+Aims: It allows me to be familiar with docker
+
+3. Music Social Media
+
 
 
