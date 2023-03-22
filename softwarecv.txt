@@ -8,15 +8,29 @@ github: github.com/tapiwa-1
 linkedin: Tapiwa Motsi
 
 Key Skills
+
+Languages
 HTML/CSS/JS
-VueJs
 PHP
-Laravel
-MySql
-Docker
 C#
 C/C++
 Python
+
+Databases
+MySql
+sqLite
+
+Frameworks
+Tailwind
+Bootstrap
+VueJs
+NuxtJs
+Laravel
+CodeIgniter
+
+Containers
+Docker
+
 
 Introduction
 Hard-working listing software engineer with a flair for creating elegant solutions in the least amount of time.
@@ -54,4 +68,5 @@ Information assurance is the practice of assuring information and managing risks
 Relevant Coursework: Computer Architecture and Organization, Principles of Programming, Secure Coding, System Administration and Security, Visual Programming Concepts, Web Technology, Database Design and Security, Operating Systems, Operating Systems
 
 Projects
+
 
