@@ -32,6 +32,7 @@ Containers
 Docker
 
 Tools
+git and github
 AdobeXD
 Adobe Photoshop
 Adobe Premier
@@ -83,6 +84,17 @@ Personal Project l have build to replicate basic functionity of job seeking syst
 Aims: It allows me to be familiar with docker
 
 3. Music Social Media
+Personal Project l have build as a Social media app that allowed Musicians to upload Music , Music videos online in a way that their fans may like or dislike, up vote or down vote their Music. It also allowed Musicians to write and upload blog posts.
+Aims: It allowed frontend part of the application build by javascript to interact with backend that l had build through application
 
+4. Hit Clinic app
+First official hit project we have worked on as a team in 2021 - 2022 that allowed medical practitioners at Harare Institute of Technology to have a virtual interacting with their patients.
+Aims: It promoted team work between us and it helped me to kick start in my fullstack development journey.
+
+5. Hit Quiz app
+My very first and my favourite fullstack application that allowed lectures to set quiz applications and students will the answer the  quiz upon completions marks will be warded.
+Aims: It allowed me to have deeper understanding with how backend Language (php) is then connected with database (MySql)
+
+These are my top 5 best project but l have pushed my projects l have worked on to my github repositories.
 
 
