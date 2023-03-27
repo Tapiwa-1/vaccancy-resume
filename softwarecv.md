@@ -40,7 +40,7 @@ linkedin: Tapiwa Motsi
 
 ### Introduction
 
-<p>ard-working listing software engineer with a flair for creating elegant solutions in the least amount of time.</p>H
+<p>Hard-working listing software engineer with a flair for creating elegant solutions in the least amount of time.</p>
 <p>As a fullstack developer, created SAS datasets of clinical data and developed macro programs to improve efficiency and quality of data management for Ministry of Local Government. Looking to use my software engineering skills to help boost ..............’ data management efficiency.
 I have developed a strong understanding of software development principles and practices. I am passionate about creating user friendly and visually appealing interface that provide an exceptional user experience. I am also committed to staying up to date with the latest technology and trends in the industry to ensure that my skills remain Relevant and valuable.
 I am excited to bring my skills and experience to a new opportunity and contribute to the success of a dynamic team.</p>
