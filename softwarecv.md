@@ -10,33 +10,33 @@ linkedin: Tapiwa Motsi
 ### Key Skills
 
 #### Languages
-• HTML/CSS/JS
-• PHP
-• C#
-• C/C++
-• Python
+    • HTML/CSS/JS
+    • PHP
+    • C#
+    • C/C++
+    • Python
 
 #### Databases
-• MySql
-• sqLite
+    • MySql
+    • sqLite
 
 #### Frameworks
-• Tailwind
-• Bootstrap
-• VueJs
-• NuxtJs
-• Laravel
-• CodeIgniter
+    • Tailwind
+    • Bootstrap
+    • VueJs
+    • NuxtJs
+    • Laravel
+    • CodeIgniter
 
 #### Containers
-• Docker
+    • Docker
 
 #### Tools
-• git and github
-• AdobeXD
-• Adobe Photoshop
-• Adobe Premier
-• Microsoft Office Tools
+    • git and github
+    • AdobeXD
+    • Adobe Photoshop
+    • Adobe Premier
+    • Microsoft Office Tools
 
 ### Introduction
 
